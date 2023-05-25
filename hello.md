@@ -536,3 +536,8 @@
 - AldoGaray-32
 - edanbece31
 - danmorinigo
+- Kamidb
+- Edwinro09
+- Matabacines
+- jjeg1979
+- fjcargom
